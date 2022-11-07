@@ -1,0 +1,46 @@
+.rectangle-div22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 1440px;
+  height: 192px;
+}
+.copyright-2022-crer-par-bra1 {
+  position: absolute;
+  top: 79px;
+  left: 0;
+  display: inline-block;
+}
+.bonhomme-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 80px;
+  width: 137px;
+  height: 144px;
+  object-fit: cover;
+}
+.group-div30,
+.logo2-1-icon1 {
+  position: absolute;
+  top: 48px;
+  left: 565px;
+  width: 282px;
+  height: 144px;
+}
+.logo2-1-icon1 {
+  top: 75px;
+  left: 662px;
+  width: 116px;
+  height: 21px;
+  object-fit: cover;
+}
+.group-div29 {
+  position: relative;
+  width: 100%;
+  height: 192px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-indigo);
+  font-family: var(--font-roboto);
+}

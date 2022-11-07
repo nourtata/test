@@ -1,0 +1,351 @@
+.accueil-b11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.menu-div15 {
+  position: relative;
+  width: 52px;
+  height: 17px;
+  flex-shrink: 0;
+  z-index: 5;
+}
+.menu-div16,
+.menu-div17,
+.menu-div18,
+.menu-div19,
+.menu-div20 {
+  position: relative;
+  width: 61px;
+  height: 17px;
+  flex-shrink: 0;
+  overflow: hidden;
+  z-index: 4;
+}
+.menu-div17,
+.menu-div18,
+.menu-div19,
+.menu-div20 {
+  width: 39px;
+  z-index: 3;
+}
+.menu-div18,
+.menu-div19,
+.menu-div20 {
+  width: 55px;
+  z-index: 2;
+}
+.menu-div19,
+.menu-div20 {
+  width: 93px;
+  z-index: 1;
+}
+.menu-div20 {
+  width: 63px;
+  z-index: 0;
+}
+.menu-div14 {
+  position: absolute;
+  top: 43px;
+  left: 732px;
+  width: 553px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-md) 0 var(--padding-sm);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-md);
+  text-align: left;
+}
+.logo-icon2 {
+  position: absolute;
+  top: 44px;
+  left: 120px;
+  width: 185px;
+  height: 32px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.mtrage-travaux-annexes-ins {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 968.59px;
+  height: 75.54px;
+}
+.rectangle-div38 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-100);
+  width: 312.06px;
+  height: 302.64px;
+}
+.rectangle-div39,
+.rectangle-div40 {
+  position: absolute;
+  background-color: var(--color-gray-400);
+}
+.rectangle-div39 {
+  top: 59.11px;
+  left: 5.3px;
+  border-radius: var(--br-sm);
+  width: 301.8px;
+  height: 91px;
+}
+.rectangle-div40 {
+  top: 169.11px;
+  left: 78.2px;
+  width: 157px;
+  height: 11px;
+}
+.modlisation-3d-b,
+.vous-avez-envie-de-visualiser {
+  position: absolute;
+  top: 155.16px;
+  left: 5.46px;
+  display: inline-block;
+  width: 301.14px;
+  height: 42.25px;
+}
+.vous-avez-envie-de-visualiser {
+  top: 202.78px;
+  font-size: var(--font-size-base);
+  color: var(--color-indigo);
+  height: 144.41px;
+}
+.aa-1-icon3,
+.group-div46,
+.group-div47 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 312.06px;
+  height: 347.19px;
+}
+.aa-1-icon3,
+.group-div46 {
+  top: 17.89px;
+}
+.aa-1-icon3 {
+  top: 0;
+  left: 56.2px;
+  width: 200px;
+  height: 168px;
+  object-fit: cover;
+}
+.group-div45 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 312.06px;
+  height: 365.09px;
+}
+.rectangle-div42,
+.rectangle-div43 {
+  position: absolute;
+  background-color: var(--color-gray-400);
+}
+.rectangle-div42 {
+  top: 59.11px;
+  left: 5.47px;
+  border-radius: var(--br-sm);
+  width: 300.77px;
+  height: 91px;
+}
+.rectangle-div43 {
+  top: 169.11px;
+  left: 68.39px;
+  width: 173px;
+  height: 11px;
+}
+.gagner-du-temps {
+  position: absolute;
+  top: 153.11px;
+  left: 5.39px;
+  display: inline-block;
+  width: 301px;
+  height: 22px;
+}
+.aa-1-icon4 {
+  position: absolute;
+  top: 9.11px;
+  left: 5.39px;
+  width: 313px;
+  height: 141px;
+  object-fit: cover;
+}
+.group-c-div1,
+.group-div44,
+.group-div48 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 318.39px;
+  height: 347.19px;
+}
+.group-div44,
+.group-div48 {
+  top: 17.89px;
+  left: 385.8px;
+}
+.group-div44 {
+  top: 192px;
+  left: 328.26px;
+  width: 704.2px;
+  height: 365.09px;
+  font-size: var(--font-size-xl);
+  color: var(--color-orange-100);
+}
+.group-div43,
+.rectangle-div44 {
+  position: absolute;
+  top: 0;
+  left: 43.54px;
+  width: 1032.46px;
+  height: 557.09px;
+}
+.rectangle-div44 {
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-100);
+  width: 304px;
+  height: 302.64px;
+}
+.rectangle-div45,
+.rectangle-div46 {
+  position: absolute;
+  background-color: var(--color-gray-400);
+}
+.rectangle-div45 {
+  top: 59.11px;
+  left: 5px;
+  border-radius: var(--br-sm);
+  width: 294px;
+  height: 91px;
+}
+.rectangle-div46 {
+  top: 169.11px;
+  left: 64px;
+  width: 176px;
+  height: 11px;
+}
+.prise-de-mesures-de-la-pice,
+.prise-des-mesures1 {
+  position: absolute;
+  top: 155.16px;
+  left: 5.32px;
+  display: inline-block;
+  width: 293.36px;
+  height: 42.25px;
+}
+.prise-de-mesures-de-la-pice {
+  top: 202.78px;
+  font-size: var(--font-size-base);
+  color: var(--color-indigo);
+  height: 144.41px;
+}
+.aa-1-icon5,
+.group-a-div1,
+.group-div51 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 304px;
+  height: 347.19px;
+}
+.aa-1-icon5,
+.group-a-div1 {
+  top: 9.89px;
+}
+.aa-1-icon5 {
+  top: 0;
+  left: 102px;
+  width: 138px;
+  height: 152px;
+  object-fit: cover;
+}
+.group-div50 {
+  position: absolute;
+  top: 200px;
+  left: 0;
+  width: 304px;
+  height: 357.09px;
+  font-size: var(--font-size-xl);
+  color: var(--color-orange-100);
+}
+.group-div42 {
+  position: absolute;
+  top: 217px;
+  left: 185px;
+  width: 1076px;
+  height: 557.09px;
+  font-size: var(--font-size-2xl);
+}
+.casque-1-icon {
+  position: absolute;
+  top: 1046.55px;
+  left: 1035.52px;
+  width: 248.85px;
+  height: 140.81px;
+  object-fit: cover;
+}
+.rectangle-div47 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 1440px;
+  height: 192px;
+}
+.copyright-2022-crer-par-bra2 {
+  position: absolute;
+  top: 79px;
+  left: 0;
+  display: inline-block;
+}
+.bonhomme-1-icon2 {
+  position: absolute;
+  top: 0;
+  left: 80px;
+  width: 137px;
+  height: 144px;
+  object-fit: cover;
+}
+.group-div53,
+.logo2-1-icon2 {
+  position: absolute;
+  top: 48px;
+  left: 565px;
+  width: 282px;
+  height: 144px;
+}
+.logo2-1-icon2 {
+  top: 75px;
+  left: 662px;
+  width: 116px;
+  height: 21px;
+  object-fit: cover;
+}
+.group-div52 {
+  position: absolute;
+  top: 1187px;
+  left: -7px;
+  width: 1440px;
+  height: 192px;
+  font-family: var(--font-roboto);
+}
+.conception-div {
+  position: relative;
+  background-color: var(--color-gray-300);
+  width: 100%;
+  height: 1367px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-indigo);
+  font-family: var(--font-inter);
+}

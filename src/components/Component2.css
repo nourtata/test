@@ -1,0 +1,210 @@
+.vous-avez-un {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.nous-sommes-prsents {
+  margin: 0;
+}
+.vous-avez-un-projet-de-travaux {
+  position: absolute;
+  height: 18.16%;
+  width: 41.23%;
+  top: 45.9%;
+  left: 11.72%;
+  display: inline-block;
+}
+.b-g-icon,
+.rectangle-icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.b-g-icon {
+  height: 125.86%;
+  width: 105.37%;
+  top: 3.27%;
+  right: -17.18%;
+  bottom: -29.13%;
+  left: 11.81%;
+  border-radius: var(--br-lg);
+  display: none;
+}
+.rectangle-icon {
+  height: 98.41%;
+  width: 99.67%;
+  top: 0;
+  right: 0;
+  bottom: 1.59%;
+  left: 0.33%;
+  border-radius: var(--br-sm);
+}
+.demander-un-devis {
+  position: absolute;
+  height: 98.04%;
+  width: 99.83%;
+  top: 1.96%;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn-devis-div14 {
+  position: absolute;
+  height: 9.17%;
+  width: 17%;
+  top: 90.83%;
+  right: 73.13%;
+  bottom: 0;
+  left: 9.87%;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.deco-icon {
+  position: absolute;
+  height: 3.04%;
+  width: 44.4%;
+  top: 20.31%;
+  right: 55.33%;
+  bottom: 76.65%;
+  left: 0.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rnovation-b {
+  position: absolute;
+  height: 10.27%;
+  width: 33.92%;
+  top: 42.73%;
+  left: 5.55%;
+  display: inline-block;
+  color: var(--color-orange-200);
+}
+.les-meilleurs-services,
+.pour-vos-travaux-de {
+  position: absolute;
+  height: 10.74%;
+  width: 45.46%;
+  top: 28.72%;
+  left: 0;
+  display: inline-block;
+  color: var(--color-indigo);
+}
+.les-meilleurs-services {
+  height: 9.81%;
+  width: 49.25%;
+  top: 10.51%;
+  color: var(--color-gray-500);
+}
+.bloc1-div,
+.img-bisness-icon {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.img-bisness-icon {
+  height: 99.35%;
+  width: 56.03%;
+  bottom: 0.65%;
+  left: 43.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bloc1-div {
+  height: 69.45%;
+  width: 88.12%;
+  bottom: 30.55%;
+  left: 11.88%;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.trait-1-icon {
+  position: absolute;
+  height: 5.65%;
+  width: 20.29%;
+  top: 36.81%;
+  right: 61.85%;
+  bottom: 57.53%;
+  left: 17.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.star-div,
+.star-div1,
+.star-div2,
+.star-div3 {
+  position: absolute;
+  height: 50.21%;
+  width: 28.27%;
+  top: 52.24%;
+  right: 46.15%;
+  bottom: -2.45%;
+  left: 25.58%;
+  background-color: var(--color-white);
+  transform: rotate(-17.97deg);
+  transform-origin: 0 0;
+}
+.star-div1,
+.star-div2,
+.star-div3 {
+  height: 45.46%;
+  width: 25.6%;
+  top: 24.27%;
+  right: 74.4%;
+  bottom: 30.27%;
+  left: 0;
+}
+.star-div2,
+.star-div3 {
+  height: 34.96%;
+  width: 19.68%;
+  top: 28.84%;
+  right: 12.15%;
+  bottom: 36.2%;
+  left: 68.17%;
+}
+.star-div3 {
+  height: 18.32%;
+  width: 10.32%;
+  top: 6.22%;
+  right: 2.39%;
+  bottom: 75.46%;
+  left: 87.29%;
+}
+.group-div54,
+.rouleau-1-icon {
+  position: absolute;
+  height: 5.99%;
+  width: 5.6%;
+  top: 19.95%;
+  right: 57.6%;
+  bottom: 74.06%;
+  left: 36.8%;
+}
+.rouleau-1-icon {
+  height: 30.59%;
+  width: 13.81%;
+  top: 69.41%;
+  right: 86.19%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component-2-div {
+  position: absolute;
+  top: 283px;
+  left: -51px;
+  width: 1288.05px;
+  height: 616.62px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-indigo);
+  font-family: var(--font-inter);
+}

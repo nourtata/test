@@ -1,0 +1,401 @@
+.accueil-b5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.menu-div8 {
+  position: relative;
+  width: 52px;
+  height: 17px;
+  flex-shrink: 0;
+  z-index: 5;
+}
+.menu-div10,
+.menu-div11,
+.menu-div12,
+.menu-div13,
+.menu-div9 {
+  position: relative;
+  width: 61px;
+  height: 17px;
+  flex-shrink: 0;
+  overflow: hidden;
+  z-index: 4;
+}
+.menu-div10,
+.menu-div11,
+.menu-div12,
+.menu-div13 {
+  width: 39px;
+  z-index: 3;
+}
+.menu-div11,
+.menu-div12,
+.menu-div13 {
+  width: 55px;
+  z-index: 2;
+}
+.menu-div12,
+.menu-div13 {
+  width: 93px;
+  z-index: 1;
+}
+.menu-div13 {
+  width: 63px;
+  z-index: 0;
+}
+.menu-div7 {
+  position: absolute;
+  top: 43px;
+  left: 732px;
+  width: 553px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-md) 0 var(--padding-sm);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-md);
+}
+.logo-icon1 {
+  position: absolute;
+  top: 44px;
+  left: 120px;
+  width: 185px;
+  height: 32px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.besoin-p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.estimatif-p {
+  margin: 0;
+}
+.besoin-dun-devis-estimatif {
+  position: absolute;
+  top: 347px;
+  right: 260px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  text-align: center;
+  width: 373px;
+  height: 244px;
+}
+.rectangle-div23,
+.rectangle-div24 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-100);
+  width: 1070px;
+  height: 762px;
+}
+.rectangle-div24 {
+  height: 98.94%;
+  width: 100%;
+  right: 0;
+  bottom: 1.06%;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-700);
+  border: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+}
+.what-is-your-name {
+  position: absolute;
+  top: calc(50% - 12.25px);
+  left: 5.59%;
+  display: none;
+}
+.textfield-div {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+}
+.formtextfieldmandatory-div {
+  position: absolute;
+  top: 109.78px;
+  left: 0;
+  width: 389px;
+  height: 38.5px;
+}
+.what-is-your-name1 {
+  position: absolute;
+  top: calc(50% - 12.25px);
+  left: 5.59%;
+  display: inline-block;
+}
+.formtextfieldmandatory-div1,
+.formtextfieldmandatory-div2 {
+  position: absolute;
+  top: 164.67px;
+  left: 0;
+  width: 389px;
+  height: 38.5px;
+}
+.formtextfieldmandatory-div2 {
+  top: 109.78px;
+  left: 409px;
+}
+.what-is-your-name3 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 12.25px);
+  left: 5.59%;
+  display: none;
+}
+.formtextfieldmandatory-div3 {
+  position: absolute;
+  top: 54.89px;
+  left: 0;
+  width: 389px;
+  height: 38.5px;
+}
+.formtextfieldmandatory-div4,
+.formtextfieldmandatory-div5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 389px;
+  height: 38.5px;
+}
+.formtextfieldmandatory-div5 {
+  left: 409px;
+}
+.formtextfieldmandatory {
+  position: absolute;
+  top: 54.89px;
+  left: 409px;
+}
+.formtextarea-input {
+  background-color: transparent;
+  position: absolute;
+  top: 219.56px;
+  left: 0;
+}
+.formtextfield-div,
+.group-div34 {
+  position: absolute;
+  top: 164.67px;
+  left: 409px;
+  width: 389px;
+  height: 38.5px;
+}
+.group-div34 {
+  top: 58.99px;
+  left: 6px;
+  width: 804px;
+  height: 306.39px;
+}
+.aenean-sit-amet-magn {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xl);
+  color: var(--color-indigo);
+  text-align: center;
+  display: inline-block;
+  width: 803px;
+  height: 58.99px;
+}
+.rectangle-div31 {
+  position: absolute;
+  top: 0;
+  left: 0.71px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-orange-100);
+  width: 216.01px;
+  height: 32.46px;
+}
+.poser-votre-question3 {
+  position: absolute;
+  top: 0.84px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 216.34px;
+  height: 32.33px;
+}
+.btn-devis-div7 {
+  position: absolute;
+  top: 627.54px;
+  left: 0;
+  width: 216.71px;
+  height: 33.17px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.what-is-your-name7 {
+  position: absolute;
+  top: 8px;
+  left: 132px;
+  display: inline-block;
+}
+.rectangle-div32 {
+  position: absolute;
+  top: 8.19px;
+  left: 0.93px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-orange-100);
+  width: 126.07px;
+  height: 16.38px;
+}
+.choisir-un-fichier {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 127px;
+}
+.btn-devis-div8,
+.choisir-un-fichier,
+.group-div36 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 31.95px;
+}
+.btn-devis-div8 {
+  width: 127px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.group-div36 {
+  width: 313px;
+}
+.what-is-your-name8 {
+  position: absolute;
+  top: 7px;
+  left: 132px;
+  display: inline-block;
+}
+.group-div37,
+.group-div38 {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  width: 313px;
+  height: 31.95px;
+}
+.group-div38 {
+  top: 140px;
+}
+.group-div35,
+.group-div39,
+.group-div40,
+.group-div41 {
+  position: absolute;
+  top: 35px;
+  left: 0;
+  width: 313px;
+  height: 31.95px;
+}
+.group-div35,
+.group-div40,
+.group-div41 {
+  top: 105px;
+}
+.group-div35,
+.group-div41 {
+  top: 175px;
+}
+.group-div35 {
+  top: 395px;
+  height: 206.95px;
+  font-size: var(--font-size-sm);
+}
+.inputflushed-chakrainput {
+  background-color: transparent;
+  position: absolute;
+  top: 62px;
+  left: 17px;
+}
+.group-div33 {
+  position: absolute;
+  top: 53px;
+  left: 130px;
+  width: 810px;
+  height: 660.71px;
+}
+.buttoncontained-text-and-ico {
+  position: absolute;
+  top: 545px;
+  left: 899px;
+}
+.group-div31,
+.group-div32 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1070px;
+  height: 762px;
+}
+.group-div31 {
+  top: 748px;
+  left: 185px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-800);
+  font-family: var(--font-open-sans);
+}
+.devisc-1-icon,
+.flech-rond-1 {
+  position: absolute;
+  object-fit: cover;
+}
+.devisc-1-icon {
+  top: 239px;
+  left: 232px;
+  width: 383px;
+  height: 397px;
+}
+.flech-rond-1 {
+  top: 545px;
+  right: 380px;
+  width: 240px;
+  height: 166px;
+}
+.casque-2-icon,
+.niveau-1-icon {
+  position: absolute;
+  top: calc(50% + 881.5px);
+  left: calc(50% - 346px);
+  width: 697px;
+  height: 55px;
+  object-fit: cover;
+}
+.casque-2-icon {
+  top: calc(50% + 751.5px);
+  left: calc(50% + 253.26px);
+  width: 243.26px;
+  height: 130.02px;
+  display: none;
+}
+.inputflushed-chakrainput1 {
+  background-color: transparent;
+  position: absolute;
+  top: 1727px;
+  left: 840px;
+}
+.devis-div {
+  position: relative;
+  background-color: var(--color-gray-300);
+  width: 100%;
+  height: 2257px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-indigo);
+  font-family: var(--font-inter);
+}
